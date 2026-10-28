@@ -1,0 +1,1026 @@
+{
+  "synthetic": true,
+  "profile": "standard",
+  "brief": {
+    "market_moving": [
+      {
+        "headline": "Synthetic AI example 1",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "market_impact": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          1
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 2",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "market_impact": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          2
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 3",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "market_impact": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          3
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 4",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "market_impact": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          4
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 5",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "market_impact": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          5
+        ]
+      }
+    ],
+    "business": [
+      {
+        "headline": "Synthetic AI example 6",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "operational_takeaway": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          6
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 7",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "operational_takeaway": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          7
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 8",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "operational_takeaway": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          8
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 9",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "operational_takeaway": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          9
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 10",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "operational_takeaway": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          10
+        ]
+      }
+    ],
+    "missteps": [
+      {
+        "headline": "Synthetic AI example 11",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "lesson": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          11
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 12",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "lesson": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          12
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 13",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "lesson": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          13
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 14",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "lesson": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          14
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 15",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "lesson": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          15
+        ]
+      }
+    ],
+    "research": [
+      {
+        "headline": "Synthetic AI example 16",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "why_it_matters": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          16
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 17",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "why_it_matters": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          17
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 18",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "why_it_matters": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          18
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 19",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "why_it_matters": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          19
+        ]
+      },
+      {
+        "headline": "Synthetic AI example 20",
+        "summary": "A fictional report illustrates the type of development covered in this section.",
+        "why_it_matters": "Examine the source evidence before drawing a conclusion.",
+        "item_ids": [
+          20
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": 1,
+      "headline": "Synthetic AI example 1",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 1",
+      "url": "https://example.org/synthetic/1",
+      "publisher": "Example publisher 1",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 2,
+      "headline": "Synthetic AI example 2",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 2",
+      "url": "https://example.org/synthetic/2",
+      "publisher": "Example publisher 2",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 3,
+      "headline": "Synthetic AI example 3",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 3",
+      "url": "https://example.org/synthetic/3",
+      "publisher": "Example publisher 3",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 4,
+      "headline": "Synthetic AI example 4",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 4",
+      "url": "https://example.org/synthetic/4",
+      "publisher": "Example publisher 4",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 5,
+      "headline": "Synthetic AI example 5",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 5",
+      "url": "https://example.org/synthetic/5",
+      "publisher": "Example publisher 5",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 6,
+      "headline": "Synthetic AI example 6",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 6",
+      "url": "https://example.org/synthetic/6",
+      "publisher": "Example publisher 6",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 7,
+      "headline": "Synthetic AI example 7",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 7",
+      "url": "https://example.org/synthetic/7",
+      "publisher": "Example publisher 7",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 8,
+      "headline": "Synthetic AI example 8",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 8",
+      "url": "https://example.org/synthetic/8",
+      "publisher": "Example publisher 8",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 9,
+      "headline": "Synthetic AI example 9",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 9",
+      "url": "https://example.org/synthetic/9",
+      "publisher": "Example publisher 9",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 10,
+      "headline": "Synthetic AI example 10",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 10",
+      "url": "https://example.org/synthetic/10",
+      "publisher": "Example publisher 10",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 11,
+      "headline": "Synthetic AI example 11",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 11",
+      "url": "https://example.org/synthetic/11",
+      "publisher": "Example publisher 11",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 12,
+      "headline": "Synthetic AI example 12",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 12",
+      "url": "https://example.org/synthetic/12",
+      "publisher": "Example publisher 12",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 13,
+      "headline": "Synthetic AI example 13",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 13",
+      "url": "https://example.org/synthetic/13",
+      "publisher": "Example publisher 13",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 14,
+      "headline": "Synthetic AI example 14",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 14",
+      "url": "https://example.org/synthetic/14",
+      "publisher": "Example publisher 14",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 15,
+      "headline": "Synthetic AI example 15",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 15",
+      "url": "https://example.org/synthetic/15",
+      "publisher": "Example publisher 15",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 16,
+      "headline": "Synthetic AI example 16",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 16",
+      "url": "https://example.org/synthetic/16",
+      "publisher": "Example publisher 16",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 17,
+      "headline": "Synthetic AI example 17",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 17",
+      "url": "https://example.org/synthetic/17",
+      "publisher": "Example publisher 17",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 18,
+      "headline": "Synthetic AI example 18",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 18",
+      "url": "https://example.org/synthetic/18",
+      "publisher": "Example publisher 18",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 19,
+      "headline": "Synthetic AI example 19",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 19",
+      "url": "https://example.org/synthetic/19",
+      "publisher": "Example publisher 19",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    },
+    {
+      "id": 20,
+      "headline": "Synthetic AI example 20",
+      "in_scope": true,
+      "tags": [
+        "evidence"
+      ],
+      "primary": "evidence",
+      "source_grade": "A",
+      "source_basis": "primary_research",
+      "source_note": "Primary study excerpt.",
+      "score_parts": {
+        "fit": 4,
+        "usability": 3,
+        "rigor": 0,
+        "novelty": 0
+      },
+      "novelty_basis": null,
+      "evidence": [
+        "This fictional report describes an AI evaluation."
+      ],
+      "implication": "Fictional content for demonstrating the briefing format.",
+      "recommendation": null,
+      "reported_dates": [],
+      "figures": [],
+      "research": null,
+      "gaps": [
+        "Effect measure unavailable"
+      ],
+      "raw_score": 7,
+      "source_cap": 10,
+      "relevance": 7,
+      "title": "Synthetic AI example 20",
+      "url": "https://example.org/synthetic/20",
+      "publisher": "Example publisher 20",
+      "lane": "research",
+      "published": "2026-10-20",
+      "text_truncated": false,
+      "text_scope": "feed_text_not_verified_full_article",
+      "tier": "watch",
+      "tier_reason": "score"
+    }
+  ],
+  "review_queue": [],
+  "run": {
+    "current_date": "2026-10-27",
+    "coverage": {
+      "input_items": 20,
+      "accepted_items": 20,
+      "review_items": 0
+    },
+    "usage": []
+  }
+}

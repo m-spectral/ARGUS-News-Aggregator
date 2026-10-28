@@ -1,0 +1,610 @@
+{
+  "description": "User-selected RSS/Atom sources, including ten additional publisher-hosted feeds retrieved and parsed on 2026-10-27. Runtime availability is recorded by the collector. No API secrets.",
+  "feeds": [
+    {
+      "id": "mckinsey-insights-and-quantumblack",
+      "publisher": "McKinsey",
+      "lane": "business",
+      "url": "https://www.mckinsey.com/insights/rss"
+    },
+    {
+      "id": "venturebeat-all",
+      "publisher": "VentureBeat",
+      "lane": "news",
+      "url": "https://venturebeat.com/feed"
+    },
+    {
+      "id": "bain-all",
+      "publisher": "Bain",
+      "lane": "business",
+      "url": "https://www.bain.com/rss-feed/"
+    },
+    {
+      "id": "deloitte-insights",
+      "publisher": "Deloitte",
+      "lane": "business",
+      "url": "https://action.deloitte.com/rss/feed.xml"
+    },
+    {
+      "id": "harvard-business-review-all",
+      "publisher": "Harvard Business Review",
+      "lane": "business",
+      "url": "https://feeds.feedburner.com/harvardbusiness"
+    },
+    {
+      "id": "knowledge-at-wharton-all",
+      "publisher": "Knowledge at Wharton",
+      "lane": "business",
+      "url": "https://knowledge.wharton.upenn.edu/feed/"
+    },
+    {
+      "id": "knowledge-at-wharton-technology",
+      "publisher": "Knowledge at Wharton",
+      "lane": "business",
+      "url": "https://knowledge.wharton.upenn.edu/category/technology/feed/"
+    },
+    {
+      "id": "mit-technology-review-all",
+      "publisher": "MIT Technology Review",
+      "lane": "news",
+      "url": "https://www.technologyreview.com/feed/"
+    },
+    {
+      "id": "mit-technology-review-ai",
+      "publisher": "MIT Technology Review",
+      "lane": "news",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
+    },
+    {
+      "id": "cio-dive-all",
+      "publisher": "CIO Dive",
+      "lane": "business",
+      "url": "https://www.ciodive.com/feeds/news/"
+    },
+    {
+      "id": "cio-all",
+      "publisher": "CIO",
+      "lane": "business",
+      "url": "https://www.cio.com/feed/"
+    },
+    {
+      "id": "computerworld-all",
+      "publisher": "Computerworld",
+      "lane": "news",
+      "url": "https://www.computerworld.com/feed/"
+    },
+    {
+      "id": "infoworld-all",
+      "publisher": "InfoWorld",
+      "lane": "practice",
+      "url": "https://www.infoworld.com/feed/"
+    },
+    {
+      "id": "siliconangle-all",
+      "publisher": "SiliconANGLE",
+      "lane": "news",
+      "url": "https://siliconangle.com/feed/"
+    },
+    {
+      "id": "the-decoder-all",
+      "publisher": "The Decoder",
+      "lane": "news",
+      "url": "https://the-decoder.com/feed/"
+    },
+    {
+      "id": "techcrunch-ai",
+      "publisher": "TechCrunch",
+      "lane": "news",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "id": "techcrunch-all",
+      "publisher": "TechCrunch",
+      "lane": "news",
+      "url": "https://techcrunch.com/feed/"
+    },
+    {
+      "id": "the-verge-ai",
+      "publisher": "The Verge",
+      "lane": "news",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    },
+    {
+      "id": "ars-technica-ai",
+      "publisher": "Ars Technica",
+      "lane": "news",
+      "url": "https://arstechnica.com/ai/feed/"
+    },
+    {
+      "id": "wired-ai",
+      "publisher": "WIRED",
+      "lane": "news",
+      "url": "https://www.wired.com/feed/tag/ai/latest/rss"
+    },
+    {
+      "id": "wired-business",
+      "publisher": "WIRED",
+      "lane": "news",
+      "url": "https://www.wired.com/feed/category/business/latest/rss"
+    },
+    {
+      "id": "ieee-spectrum-ai",
+      "publisher": "IEEE Spectrum",
+      "lane": "practice",
+      "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss"
+    },
+    {
+      "id": "the-register-ai-ml",
+      "publisher": "The Register",
+      "lane": "news",
+      "url": "https://www.theregister.com/software/ai_ml/headlines.atom"
+    },
+    {
+      "id": "unite-ai-all",
+      "publisher": "Unite.AI",
+      "lane": "news",
+      "url": "https://www.unite.ai/feed/"
+    },
+    {
+      "id": "one-useful-thing-all",
+      "publisher": "One Useful Thing",
+      "lane": "practice",
+      "url": "https://www.oneusefulthing.org/feed"
+    },
+    {
+      "id": "exponential-view-all",
+      "publisher": "Exponential View",
+      "lane": "business",
+      "url": "https://www.exponentialview.co/feed"
+    },
+    {
+      "id": "stratechery-all",
+      "publisher": "Stratechery",
+      "lane": "business",
+      "url": "https://stratechery.com/feed/"
+    },
+    {
+      "id": "benedict-evans-all",
+      "publisher": "Benedict Evans",
+      "lane": "business",
+      "url": "https://www.ben-evans.com/benedictevans?format=rss"
+    },
+    {
+      "id": "towards-data-science-all",
+      "publisher": "Towards Data Science",
+      "lane": "practice",
+      "url": "https://towardsdatascience.com/feed/"
+    },
+    {
+      "id": "kdnuggets-all",
+      "publisher": "KDnuggets",
+      "lane": "practice",
+      "url": "https://www.kdnuggets.com/feed"
+    },
+    {
+      "id": "import-ai-all",
+      "publisher": "Import AI",
+      "lane": "practice",
+      "url": "https://importai.substack.com/feed"
+    },
+    {
+      "id": "interconnects-all",
+      "publisher": "Interconnects",
+      "lane": "practice",
+      "url": "https://www.interconnects.ai/feed"
+    },
+    {
+      "id": "latent-space-all",
+      "publisher": "Latent Space",
+      "lane": "practice",
+      "url": "https://www.latent.space/feed"
+    },
+    {
+      "id": "understanding-ai-all",
+      "publisher": "Understanding AI",
+      "lane": "practice",
+      "url": "https://www.understandingai.org/feed"
+    },
+    {
+      "id": "platformer-all",
+      "publisher": "Platformer",
+      "lane": "news",
+      "url": "https://www.platformer.news/rss/"
+    },
+    {
+      "id": "gary-marcus-all",
+      "publisher": "Gary Marcus",
+      "lane": "practice",
+      "url": "https://garymarcus.substack.com/feed"
+    },
+    {
+      "id": "simon-willison-everything",
+      "publisher": "Simon Willison",
+      "lane": "practice",
+      "url": "https://simonwillison.net/atom/everything/"
+    },
+    {
+      "id": "simon-willison-essays",
+      "publisher": "Simon Willison",
+      "lane": "practice",
+      "url": "https://simonwillison.net/atom/entries/"
+    },
+    {
+      "id": "openai-news",
+      "publisher": "OpenAI",
+      "lane": "primary",
+      "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "id": "google-deepmind-blog",
+      "publisher": "Google DeepMind",
+      "lane": "primary",
+      "url": "https://deepmind.google/blog/rss.xml"
+    },
+    {
+      "id": "google-research-blog",
+      "publisher": "Google Research",
+      "lane": "primary",
+      "url": "https://research.google/blog/rss/"
+    },
+    {
+      "id": "hugging-face-blog",
+      "publisher": "Hugging Face",
+      "lane": "primary",
+      "url": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+      "id": "nvidia-blog",
+      "publisher": "NVIDIA",
+      "lane": "primary",
+      "url": "https://blogs.nvidia.com/feed/"
+    },
+    {
+      "id": "aws-machine-learning-blog",
+      "publisher": "AWS Machine Learning",
+      "lane": "primary",
+      "url": "https://aws.amazon.com/blogs/machine-learning/feed/"
+    },
+    {
+      "id": "microsoft-research-all",
+      "publisher": "Microsoft Research",
+      "lane": "primary",
+      "url": "https://www.microsoft.com/en-us/research/feed/"
+    },
+    {
+      "id": "mit-sloan-management-review-all",
+      "publisher": "MIT Sloan Management Review",
+      "lane": "business",
+      "url": "https://sloanreview.mit.edu/feed/"
+    },
+    {
+      "id": "mit-sloan-management-review-ai-and-machine-learning",
+      "publisher": "MIT Sloan Management Review",
+      "lane": "business",
+      "url": "https://sloanreview.mit.edu/topic/ai-machine-learning/feed/"
+    },
+    {
+      "id": "mit-sloan-management-review-generative-ai",
+      "publisher": "MIT Sloan Management Review",
+      "lane": "business",
+      "url": "https://sloanreview.mit.edu/tag/generative-ai/feed/"
+    },
+    {
+      "id": "mit-sloan-management-review-artificial-intelligence",
+      "publisher": "MIT Sloan Management Review",
+      "lane": "business",
+      "url": "https://sloanreview.mit.edu/tag/artificial-intelligence/feed/"
+    },
+    {
+      "id": "mit-sloan-management-review-ai-in-action",
+      "publisher": "MIT Sloan Management Review",
+      "lane": "business",
+      "url": "https://sloanreview.mit.edu/series/ai-in-action/feed/"
+    },
+    {
+      "id": "mit-sloan-management-review-analytics-and-business-intelligence",
+      "publisher": "MIT Sloan Management Review",
+      "lane": "business",
+      "url": "https://sloanreview.mit.edu/topic/analytics-business-intelligence/feed/"
+    },
+    {
+      "id": "mit-sloan-management-review-automation",
+      "publisher": "MIT Sloan Management Review",
+      "lane": "business",
+      "url": "https://sloanreview.mit.edu/topic/automation/feed/"
+    },
+    {
+      "id": "mit-sloan-management-review-data-and-data-culture",
+      "publisher": "MIT Sloan Management Review",
+      "lane": "business",
+      "url": "https://sloanreview.mit.edu/topic/data-culture/feed/"
+    },
+    {
+      "id": "mit-sloan-management-review-technology-implementation",
+      "publisher": "MIT Sloan Management Review",
+      "lane": "business",
+      "url": "https://sloanreview.mit.edu/topic/technology-implementation/feed/"
+    },
+    {
+      "id": "mit-sloan-management-review-it-governance-and-leadership",
+      "publisher": "MIT Sloan Management Review",
+      "lane": "business",
+      "url": "https://sloanreview.mit.edu/topic/it-governance-leadership/feed/"
+    },
+    {
+      "id": "mit-sloan-management-review-technology-innovation-strategy",
+      "publisher": "MIT Sloan Management Review",
+      "lane": "business",
+      "url": "https://sloanreview.mit.edu/topic/technology-innovation-strategy/feed/"
+    },
+    {
+      "id": "o-reilly-radar-all",
+      "publisher": "O Reilly Radar",
+      "lane": "practice",
+      "url": "https://www.oreilly.com/radar/feed/"
+    },
+    {
+      "id": "o-reilly-radar-ai-ml",
+      "publisher": "O Reilly Radar",
+      "lane": "practice",
+      "url": "https://www.oreilly.com/radar/topics/ai-ml/feed/"
+    },
+    {
+      "id": "o-reilly-radar-business",
+      "publisher": "O Reilly Radar",
+      "lane": "practice",
+      "url": "https://www.oreilly.com/radar/topics/business/feed/"
+    },
+    {
+      "id": "o-reilly-radar-executive-briefing",
+      "publisher": "O Reilly Radar",
+      "lane": "practice",
+      "url": "https://www.oreilly.com/radar/topics/executive-briefing/feed/"
+    },
+    {
+      "id": "o-reilly-radar-data",
+      "publisher": "O Reilly Radar",
+      "lane": "practice",
+      "url": "https://www.oreilly.com/radar/topics/data/feed/"
+    },
+    {
+      "id": "o-reilly-radar-innovation-and-disruption",
+      "publisher": "O Reilly Radar",
+      "lane": "practice",
+      "url": "https://www.oreilly.com/radar/topics/innovation-and-disruption/feed/"
+    },
+    {
+      "id": "o-reilly-radar-radar-trends",
+      "publisher": "O Reilly Radar",
+      "lane": "practice",
+      "url": "https://www.oreilly.com/radar/topics/radar-trends/feed/"
+    },
+    {
+      "id": "o-reilly-radar-this-week-in-ai",
+      "publisher": "O Reilly Radar",
+      "lane": "practice",
+      "url": "https://www.oreilly.com/radar/topics/this-week-in-ai/feed/"
+    },
+    {
+      "id": "o-reilly-radar-the-monday-morning-agent",
+      "publisher": "O Reilly Radar",
+      "lane": "practice",
+      "url": "https://www.oreilly.com/radar/topics/the-monday-morning-agent/feed/"
+    },
+    {
+      "id": "o-reilly-radar-generative-ai-in-the-real-world",
+      "publisher": "O Reilly Radar",
+      "lane": "practice",
+      "url": "https://www.oreilly.com/radar/topics/generative-ai-in-the-real-world-podcast/feed/"
+    },
+    {
+      "id": "o-reilly-radar-zero-to-agent-in-30-minutes",
+      "publisher": "O Reilly Radar",
+      "lane": "practice",
+      "url": "https://www.oreilly.com/radar/topics/zero-to-agent-in-30-minutes/feed/"
+    },
+    {
+      "id": "arxiv-cs-ai",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/cs.AI"
+    },
+    {
+      "id": "arxiv-cs-lg",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/cs.LG"
+    },
+    {
+      "id": "arxiv-stat-ml",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/stat.ML"
+    },
+    {
+      "id": "arxiv-cs-cl",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/cs.CL"
+    },
+    {
+      "id": "arxiv-cs-cv",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/cs.CV"
+    },
+    {
+      "id": "arxiv-cs-ma",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/cs.MA"
+    },
+    {
+      "id": "arxiv-cs-ro",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/cs.RO"
+    },
+    {
+      "id": "arxiv-cs-hc",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/cs.HC"
+    },
+    {
+      "id": "arxiv-cs-cy",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/cs.CY"
+    },
+    {
+      "id": "arxiv-cs-ir",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/cs.IR"
+    },
+    {
+      "id": "arxiv-cs-si",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/cs.SI"
+    },
+    {
+      "id": "arxiv-econ-gn",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/econ.GN"
+    },
+    {
+      "id": "arxiv-econ-em",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/econ.EM"
+    },
+    {
+      "id": "arxiv-econ-th",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/econ.TH"
+    },
+    {
+      "id": "arxiv-quant-ph",
+      "publisher": "arXiv",
+      "lane": "research",
+      "url": "https://rss.arxiv.org/rss/quant-ph"
+    },
+    {
+      "id": "bloomberg-technology",
+      "publisher": "Bloomberg Technology",
+      "lane": "news",
+      "url": "https://feeds.bloomberg.com/technology/news.rss"
+    },
+    {
+      "id": "financial-times-technology",
+      "publisher": "Financial Times",
+      "lane": "business",
+      "url": "https://www.ft.com/technology?format=rss"
+    },
+    {
+      "id": "nature-journal",
+      "publisher": "Nature",
+      "lane": "research",
+      "url": "https://www.nature.com/nature.rss"
+    },
+    {
+      "id": "jama-current-issue",
+      "publisher": "JAMA",
+      "lane": "research",
+      "url": "https://jamanetwork.com/rss/site_3/67.xml"
+    },
+    {
+      "id": "jama-network-open",
+      "publisher": "JAMA Network Open",
+      "lane": "research",
+      "url": "https://jamanetwork.com/rss/site_214/187.xml"
+    },
+    {
+      "id": "legaltech-news",
+      "publisher": "Legaltech News",
+      "lane": "practice",
+      "url": "https://www.law.com/legaltechnews/feed/"
+    },
+    {
+      "id": "ai-incident-database",
+      "publisher": "AI Incident Database",
+      "lane": "practice",
+      "url": "https://incidentdatabase.ai/rss.xml"
+    },
+    {
+      "id": "404-media",
+      "publisher": "404 Media",
+      "lane": "news",
+      "url": "https://www.404media.co/rss/"
+    },
+    {
+      "id": "microsoft-security",
+      "publisher": "Microsoft Security Blog",
+      "lane": "practice",
+      "url": "https://www.microsoft.com/en-us/security/blog/feed/"
+    },
+    {
+      "id": "unit42-research",
+      "publisher": "Palo Alto Networks Unit 42",
+      "lane": "practice",
+      "url": "https://unit42.paloaltonetworks.com/feed/"
+    }
+  ],
+  "apis": {
+    "newsapi": {
+      "enabled": false,
+      "env": "NEWSAPI_KEY",
+      "query": "\"artificial intelligence\" OR \"machine learning\" OR \"generative AI\"",
+      "max_pages": 1,
+      "docs": "https://newsapi.org/docs/endpoints/everything",
+      "name": "NewsAPI.org"
+    },
+    "gnews": {
+      "enabled": false,
+      "env": "GNEWS_KEY",
+      "query": "\"artificial intelligence\" OR \"machine learning\" OR \"generative AI\"",
+      "max_pages": 1,
+      "docs": "https://docs.gnews.io/endpoints/search-endpoint"
+    },
+    "newsdata": {
+      "enabled": false,
+      "env": "NEWSDATA_KEY",
+      "query": "\"artificial intelligence\" OR \"machine learning\" OR \"generative AI\"",
+      "max_pages": 1,
+      "docs": "https://newsdata.io/documentation/"
+    },
+    "newsapi_api": {
+      "name": "NewsAPI.API",
+      "enabled": false,
+      "env": "NEWSAPI_API_KEY",
+      "status": "awaiting_documentation",
+      "docs": null,
+      "endpoint": null
+    }
+  },
+  "editorial_access_note": "Editorial preferences guide selection, not evidence quality. New feeds were retrieved through a web retrieval service and parsed with this collector, not fetched from a GitHub runner. Reuters Tech and Brookings remain unverified; The Information requires subscriber authentication and is not enabled. Broad journal/security feeds require AI relevance filtering. Feed text does not guarantee full-article access. AI Incident Database dates may describe report additions rather than incident occurrence.",
+  "pending_sources": [
+    {
+      "publisher": "Reuters (Tech)",
+      "status": "no_public_rss_verified",
+      "url": null,
+      "note": "Do not substitute Thomson Reuters investor-relations RSS for Reuters technology reporting. Evaluate authorized Reuters Connect/API access separately."
+    },
+    {
+      "publisher": "Brookings Institution",
+      "status": "rss_not_verified",
+      "url": "https://www.brookings.edu/feed/",
+      "note": "Advertised endpoint returned HTML during this check, so it is not enabled."
+    },
+    {
+      "publisher": "The Information",
+      "status": "subscriber_authentication_required",
+      "url": "https://www.theinformation.com/subscriber_feed",
+      "note": "Official subscriber feed returned HTTP 401 without credentials. Do not embed credentials in sources.json."
+    }
+  ]
+}
